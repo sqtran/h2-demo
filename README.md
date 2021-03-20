@@ -13,5 +13,5 @@ mvn spring-boot:run
 
 Only 1 Rest Endpoint to call
 ```bash
-curl locahost:8080/getall
+curl localhost:8080/getall
 ```
